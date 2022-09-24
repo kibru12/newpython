@@ -1,0 +1,2 @@
+# newpython
+second python project 
